@@ -1,0 +1,544 @@
+Manufacturer;Model;Size;LCD Type;Resolution;Range;Interface;LFC;Freesync 2;HDR
+HP;BX340CK;34";IPS;3440x1440;30-75 via DisplayPort;DisplayPort™;Yes;Yes;No
+Acer;CB281HK;28";TN;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;CZ350C;35";NA;2560x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;CZ380CQK;38";IPS;3840x1600;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+Acer;EB243Y A;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;EB243YU;24";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;EB243YU A;24";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;EB273;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;EB275U;27";IPS;2560x1440;49-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;ED242QR;24";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;ED242QR A;24";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;ED273;27";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;ED273 A;27";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;ED273A;27";VA;1920x1080;48-144 via DisplayPort 120-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;ED273UR;27";NA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;ED323QUR;32";NA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;ED323QUR/ED323QUR A;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;ED347CKR;34";VA;3440x1440;48-100 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;EH301CUR;30";VA;2560x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;ET272R;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;ET322QK;32";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+Acer;ET322QR;32";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;ET322QU;32";NA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;GF246;24";TN;1920x1080;47-75 via DisplayPort 47-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;GF276;27";TN;1920x1080;47-75 via DisplayPort 47-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;H277HK;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;H277HK (kmipuz);27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;HA220Q;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;HA220Q/ HA220Q wi;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;HA230;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;HA230/ HA230 wi;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;HA240Y;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;HA270;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;KG221Q;22";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG240;24";NA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG240A;24";PLS;1920x1080;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+Acer;KG241;24";TN;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;KG241Q;24";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG241YU;24";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG251Q;25";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG251Q A;25";TN;1920x1080;30-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG251Q D/KG251Q;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG251Q/KG251Q B;25";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG251QA;25";TN;1920x1080;48-144 via DisplayPort 144-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG270;27";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG271;27";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG271 A;27";TN;1920x1080;30-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG271 A(ODM2-Qisda);27";TN;1920x1080;30-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG271 B;27";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;Yes
+Acer;KG271(2nd ODM);27";TN;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;KG271/ KG271 C;27";TN;1920x1080;30-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG271A;27";TN;1920x1080;30-144 via DisplayPort 144-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG271U;27";TN;2560x1440;48-75 via DisplayPort 48-70 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;KG271U/ KG271U A(2nd Panel Source);27";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG271U/KG271U A;27";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG271U/KG271U B;27";VA;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;KG281K;28";TN;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;PE270K;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;PE320QK;32";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;Q3279VWFD8;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;R221Q/R221Q Bbix;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;R271/R271 Bbix;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;RC241YU/RC241YU smidpx;24";IPS;2560x1440;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;RC271U / RC271U smidpx;27";IPS;2560x1440;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;RC271U smipuzx;27";IPS;2560x1440;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;RG240Y/RG240Y bmiix;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;RG240Y/RG240Y bmipx;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;RG270/RG270 bmiix;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;RG270/RG270 bmipx;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;RT280K;28";TN;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;SA220Q;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SA220Q/ SA220Q bi;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SA230;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SA230/ SA230 bi;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SA240Y;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SA270;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SB220Q/ SB220Q bi;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SB230/ SB230 Bbix;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SB230/ SB230 Bbmix;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SB270 / SB270 Bbix;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;SB270 / SB270 Bbmix;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;V277;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VE240Y;24";IPS;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Acer;VG220Q;22";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG240Y;24";AD-PLS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG240Y(2nd panel&scalar);24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG240Y/ VG240Y bmiix;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG240Y/ VG240Y bmipx;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG240YU;24";NA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG270/ VG270 bmiix;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG270/ VG270 bmipx;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG270_1D1H;27";A-HVA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG270_1D1H(ODM 2-Qisda);27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG270_1D1H(Panel 2-INX_Qisda);27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG270_2H;27";A-HVA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG270_2H(ODM 2-Qisda);27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG270_2H(Panel 2-INX_Qisda);27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;VG270K;27";A-HVA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+Acer;VG270U;27";IPS;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;VG270U (Panel 3-INX Panel);27";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;VG270U(2nd ODM & AUO Panel);27";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;XF240H;24";TN;1920x1080;48-144 via DisplayPort 144-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF240Q P;24";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF240YU;24";TN;2560x1440;40-144 via DisplayPort 40-70 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF250Q;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF250Q/XF250Q B;25";TN;1920x1080;40-144 via DisplayPort 40-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF250Q/XF250Q C;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF251Q;25";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;XF270H A;27";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF270H B;27";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF270HA;27";TN;1920x1080;48-240 via DisplayPort 240-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF270HU;27";IPS;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF270HU/ XF270HU C(2nd Panel Source);27";IPS;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF270HU/XF270HU C;27";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XF290C;29";IPS;2560x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Acer;XFA240;24";TN;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XG270HU;27";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XG270HU V.2;27";NA;2560x1440;40-144 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XR341CK;34";IPS;3440x1440;30-75 via DisplayPort;DisplayPort™;Yes;No;No
+Acer;XR342CKP/XR342CK P;34";IPS;3440x1440;48-100 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XR382CQK;38";IPS;3840x1600;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Acer;XV273K;27";TN;3840x2160;48-120 via DisplayPort;DisplayPort™;Yes;No;No
+Acer;XZ271;27";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XZ271_A;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XZ271U;27";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XZ271U A;27";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XZ321Q;32";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Acer;XZ321QU;32";IPS;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;Yes
+Agon;AG241QG4/AG241QX;24";TN;2560x1440;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG241QX;24";TN;2560x1440;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG251FWG2/AG251FZ;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG251FWG4/AG251FX;25";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG251FZ;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG271FG2/AG271FZ;27";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG271FG4/AG271FX;27";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG272FG4/AG272FCX;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG272FG4R/AG272FCX9;27";IPS;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG272QCX9;27";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG27FG4/AG272FCX;27";VA;1920x1080;48-144 via DisplayPort 144-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG322FCX;32";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG322FWG4/AG322QCX;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG322QC4;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Agon;AG322QCX;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG322QCX9;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Agon;AG322QWG5B/AG322Q;32";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Agon;AG352QCX;35";VA;2560x1080;30-200 via DisplayPort 30-200 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Alienware;AW2518HF;25";TN;1920x1080;48-240 via DisplayPort 240-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;22V2WG5/ 22V2Q;22";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;22V2WG5/22V2H;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;24N1W1G5/ 24N1H;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;24V2W1G5 / 24V2Q;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;24V2W1G5/24V2H;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;2590G4/G2590PX;24";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;2790WG5/G2790PX;27";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;2791G5/C2791VHE/WS;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;27N1G5/ 27N1H;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;27V2G5 /27V2H;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;27V2G5/27V2Q;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;C24G1;24";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;C2789FH8;27";MVA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOC;C27G1;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;C32G1;32";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;G2260VWQ6;22";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+AOC;G2460PF;24";TN;1920x1080;35-144 via DisplayPort 35-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;G2460VQ6;24";TN;1920x1080;35-75 via DisplayPort 35-75 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;G2590FX;24";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;G2590VXQ;24";TN;1920x1080;30-75 via DisplayPort 30-75 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;G2770PF;27";TN;1920x1080;35-144 via DisplayPort 35-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;G2770PGF;27";TN;1920x1080;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+AOC;G2778V;27";NA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;G2778VF;27";TN;2560x1440;48-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;G2778VQ;27";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+AOC;KG251Q/ KG251Q F;24";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;Q3279VWF;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;Q3279VWFD8;32";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;Q3279WG5B/Q3279VWF8;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOC;Q32G1WG4/ CQ32G1;32";NA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOC;U2879VF;28";TN;3840x2160;40-62 via DisplayPort;DisplayPort™;Yes;No;No
+AOPEN;24HC1QR;24";VA;1920x1080;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+AOPEN;24ML1Y;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOPEN;24MX1;24";TN;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+AOPEN;27HC1R P;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOPEN;27MX1U;27";TN;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+AOPEN;32HC1QUR P;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;BE320QK;32";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+Asus;AG271FG4/AG271FX;27";TN;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;MG248/MG248QE;24";TN;1920x1080;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;MG248Q;24";TN;1920x1080;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;MG248/MG248QR;24";TN;1920x1080;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;MG24U;24";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;MG278Q;27";TN;2560x1440;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;MG279Q;27";VA;2560x1440;35-90 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;MG28U;28";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;MX32VQ;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;MX34V/MX34VQ;34";VA;3440x1440;48-100 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;MX34VQ;34";VA;3840x2160;48-100 via DisplayPort 100-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VG245H;24";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VG245Q;24";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VG248/VG248QG;24";TN;1920x1080;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;VG255/VG255H;25";TN;1920x1080;40-75 via HDMI;HDMI®;Yes;No;No
+Asus;VG258/VG258Q;25";TN;1920x1080;40-120 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VG258/VG258QR;24";TN;1920x1080;40-165 via DisplayPort 40-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VG275/VG275Q;27";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VG275Q;27";TN;1920x1080;40-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VG278/VG278QE;27";TN;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VG278/VG278QF;27";TN;1920x1080;40-165 via DisplayPort 40-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VG278/VG278QR;27";TN;1920x1080;40-165 via DisplayPort 40-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VG278Q;27";TN;1920x1080;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;VL279/VL279H;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Asus;VL279/VL279HE;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Asus;VP228/ VP228QG;22";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VP247/VP247QG;24";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VP247QG;24";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;VP278/VP278QG;27";TN;1920x1080;47-75 via DisplayPort 47-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VP278QG;27";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;VP28UQG;28";TN;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;VZ27VQ;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Asus;XG248Q;24";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;XG258/XG258Q;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;XG258Q;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;XG27VQ;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;XG32V/XG32VQ;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Asus;XG32VQ;32";VA;2560x1440;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;XG35V/XG35VQ;35";VA;3440x1440;48-100 via DisplayPort;DisplayPort™;Yes;No;No
+Asus;XG35VQ;35";VA;3440x1440;48-100 via DisplayPort;DisplayPort™;Yes;No;No
+BBY;NS-PMG248;24";TN;1920x1080;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+BBY;NS-PMG278;27";TN;2560x1440;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+BenQ;EL2870U;28";TN;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+BenQ;EW3270U;32";VA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+BenQ;EX3200R;32";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+BenQ;EX3203R (FS2);32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;Yes;No
+BenQ;EX3501R;35";VA;3440x1440;48-100 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;Yes
+BenQ;PD2700U;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+BenQ;XL2540;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+BenQ;XL2730Z;27";TN;2560x1440;40-144 via DisplayPort 40-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+BenQ;XL2740;27";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+CrossOver;27FAST144;27";VA;2560x1440;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+Dell;AW2518HF;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Dell;D2719HGF;27";TN;1920x1080;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Dell;S2418HN;24";IPS;1920x1080;48-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dell;S2419HM;24";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Dell;S2718H;27";IPS;1920x1080;48-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dell;S2718HN;27";IPS;1920x1080;40-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dell;S2718HN/NX;27";NA;1920x1080;40-75 via HDMI;HDMI®;Yes;No;No
+Dell;S2719DM;27";NA;2560x1440;48-75 via HDMI;HDMI®;Yes;No;Yes
+Dell;S3219D;32";IPS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dell;SE2418HN;24";IPS;1920x1080;48-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dell;SE2418HN/NX;24";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Dell;SE2717H/HX;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dell;SE2717HR;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Dostyle;DM270GC;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Dostyle;DM320GC;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HKC;NB27C2;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HKC;NB32C2;32";VA;1920x1080;48-120 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;22f;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;22fw;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;23f;23";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;24f;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;24fw;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;24fw/ 24fw with Audio;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;25f;25";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;25mx;25";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;25x;25";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;27b Curved Display;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;27f;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27fh;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27fw;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27fw/ 27fw with Audio;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27mx;27";TN;1920x1080;48-144 via DisplayPort 48-155 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;27q;27";PLS;2560x1440;48-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;27x;27";VA;1920x1080;48-144 via DisplayPort 120-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;27x Curved / 27x Curved Display;27";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;27xq;27";TN;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;Envy 24;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Envy 27;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Envy 27 (Allegro);27";NA;3840x2160;40-60 via DisplayPort 35-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Envy 27s;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Envy 27s (Legato);27";NA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Envy 34;34";IPS;3440x1440;40-100 via DisplayPort 100-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;Gaming 32 / Pavilion Gaming 32 HDR Display;32";MVA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+HP;HP 27 Curved Display;27";TN;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;HP 27b Curved Display;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;HP 32 QHD/Pavilion 32 QHD;32";VA;2560x1440;38-75 via DisplayPort 38-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;HP Pavilion 32 V.2;32";NA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Omen 25/OMEN by HP 25;25";TN;1920x1080;42-144 via DisplayPort 42-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;Omen 32;32";NA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Pavilion 27q;27";PLS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;Pavilion 32 V.2;32";NA;2560x1440;48-70 via DisplayPort 70-70 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;S240n;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+HP;S340C/Envy 34;34";VA;3440x1440;40-100 via DisplayPort 40-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Iiyama;B2783QSU;27";TN;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;GB2488HSU;24";TN;1920x1080;35-120 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;GB2788HS;27";TN;1920x1080;45-144 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;GB2888UHSU;28";TN;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;GE2288HS;22";NA;1920x1080;47-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2288H;22";NA;1920x1080;47-75 via HDMI;HDMI®;Yes;No;No
+Iiyama;PL2395W/XU2395WSU;23";IPS;2560x1440;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2395W/XUB2395WSU;23";IPS;1920x1200;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2488HS;24";NA;1920x1080;47-75 via HDMI;HDMI®;Yes;No;No
+Iiyama;PL2530H / G-MASTER GB2530HSU;25";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2530H/G2530HSU;25";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2560H / G-MASTER G2560HSU;25";TN;1920x1080;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Iiyama;PL2560H / G-MASTER GB2560HSU;25";TN;1920x1080;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Iiyama;PL2592H/B2591HSU;25";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2592H/E2591HSU;25";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2730H/G2730HSU;27";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2730H/GB2730HSU;27";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2730Q / W2716EQ-G (Gaming);27";TN;2560x1440;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2760H / G-MASTER G2760HSU;27";TN;1920x1080;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Iiyama;PL2760H / G-MASTER GB2760HSU;27";TN;1920x1080;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Iiyama;PL2760Q/G-MASTER GB2760QSU;27";TN;2560x1440;40-144 via DisplayPort 40-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Iiyama;PL2783Q / B2783QSU;27";TN;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2783Q / E2783QSU;27";TN;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2783Q / GB2783QSU;27";TN;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2783Q/B2783QSU;27";TN;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2783Q/GB2783QSU;27";TN;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2788HS;27";NA;1920x1080;47-75 via HDMI;HDMI®;Yes;No;No
+Iiyama;PL2788Q/X2788QS;27";IPS;2560x1440;35-60 via DisplayPort 35-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2788Q/XB2788QS;27";IPS;2560x1440;40-60 via DisplayPort 35-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2791Q/ W2716EQ-B (non-gaming);27";TN;2560x1440;48-70 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2792H/B2791HSU;27";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2792H/E2791HSU;27";TN;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Iiyama;PL2792Q;27";VA;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2792Q/XU2792QSU;27";NA;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL279Q/XUB2792QSU;27";NA;2560x1440;48-70 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PL2875UH / B2875UHSU-B1;28";IPS;3840x2160;40-60 via HDMI;HDMI®;Yes;No;No
+Iiyama;PL2875UH/B2875UHSU-B1;28";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Iiyama;PLG3266 / G3266HS;32";VA;1920x1080;48-144 via HDMI;HDMI®;Yes;No;No
+I-O Data;LCD-M4K282XB;28";NA;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+I-O Data;LCD-GC271XCVB;27";NA;1920x1080;48-144 via HDMI;HDMI®;Yes;No;No
+Lenovo;L22e-20(Panel 1-AUO);22";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;L22e-20(Panel 2-AUO-TPV);22";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;L24e-20;24";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;L27i-28;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;L27m-28;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;LI2264d;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Lenovo;LI2364d;23";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Lenovo;S22e-19;22";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;S24e-10;24";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;S27i-10;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Lenovo;Y25f / Y25f-10;25";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Lenovo;Y27F;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Lenovo;Y27FA;27";NA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+LG Electronics;22MK600H;22";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;24MK400;24";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;24MK600H;24";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;24MP68;24";NA;1920x1080;40-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;27MK400H;27";NA;1920x1080;30-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;27MK600M;27";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;27MP68;27";NA;1920x1080;40-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;27UD60;27";NA;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UD69_new;27";NA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;29WK500;29";NA;2056x1080;40-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;29WK600;29";NA;2560x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;32GK650F;32";NA;2560x1440;48-144 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+LG Electronics;32GK850F;32";NA;2560x1440;72-144 via DisplayPort 50-100 via HDMI;DisplayPort™, HDMI®;Yes;No;Yes
+LG Electronics;32QK500;32";NA;2560x1440;50-75 via DisplayPort 50-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;32UL750;32";NA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+LG Electronics;32UL950;32";NA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+LG Electronics;34WK500;34";NA;2560x1080;40-75 via HDMI;HDMI®;Yes;No;No
+LG Electronics;34WK650;34";NA;2560x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;38WK95;38";NA;3840x1600;52-75 via DisplayPort 52-75 via HDMI;DisplayPort™, HDMI®;No;No;Yes
+LG Electronics;22MK430H;22";IPS;1920x1080;50-75 via DisplayPort 50-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;22MP68VQ;22";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;23MP68VQ;23";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;24GM79G;24";IPS;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+LG Electronics;24MK430H;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;24MP59G;24";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;24MP68VQ;24";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;24UD58;24";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27BK85U;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;Yes
+LG Electronics;27GK750F;27";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+LG Electronics;27MK430H;27";TN;1920x1080;30-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27MP59G;27";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;27MP68HM;27";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;27MP68VQ;27";IPS;1920x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;27MP89HM;27";IPS;1920x1080;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;27MU67;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27MU68;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27MU88;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UD58;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UD58P;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UD68;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UD69;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;27UD69P;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;27UD88;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UK600;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;Yes
+LG Electronics;27UK650;27";IPS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;27UK850;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;29UC88;29";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;29UM58A;29";IPS;2560x1080;45-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;29UM59A;29";IPS;2560x1080;40-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;29UM60;29";NA;2560x1080;40-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;29UM67;29";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;29UM68;29";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;29UM69G;29";PLS;2560x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;32UD59;32";VA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;32UD89;32";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;32UD99;32";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;34UC79G;34";IPS;2560x1080;50-144 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;34UC98;34";IPS;3440x1440;55-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;34UM57;34";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;34UM58A;34";IPS;2560x1080;45-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;34UM59;34";IPS;2560x1080;45-75 via DisplayPort 45-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;34UM60;34";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;34UM67;34";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;34UM68;34";IPS;2560x1080;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;34UM69G;34";IPS;2560x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;34UM79M;34";IPS;2560x1080;40-75 via DisplayPort 40-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+LG Electronics;34UM88;34";IPS;3440x1440;40-75 via DisplayPort;DisplayPort™;Yes;No;No
+LG Electronics;38UC99;38";IPS;3840x1600;52-75 via DisplayPort;DisplayPort™;Yes;No;No
+Monoprice;MP27 ZeroG;27";NA;2560x1440;40-144 via HDMI;HDMI®;Yes;No;No
+Monoprice;MP27 Zero-G;27";TN;2560x1440;40-144 via DisplayPort;DisplayPort™;Yes;No;No
+MSI;BE270K;27";IPS;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+MSI;BX340C;34";IPS;2560x1440;48-75 via DisplayPort 75-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+MSI;MAG241C;24";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;MAG271C;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;MPG27C;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;MPG27CQ;27";MVA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix AG32CQ;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix G24C;24";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix G27C2;27";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix MAG24C;24";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix MAG27C;27";VA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix MAG27CQ;27";VA;2560x1440;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+MSI;Optix MAG341CQ;34";VA;3440x1440;48-100 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Nixeus;NX-EDG27;27";VA;2560x1440;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Nixeus;NX-VUE24;24";TN;1920x1080;30-144 via HDMI;HDMI®;Yes;No;No
+Nixeus;NX-VUE24 (new firmware);24";NA;1920x1080;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;Yes
+Nixeus;NX-VUE27FS NX-EDG27;27";IPS;2560x1440;30-144 via DisplayPort 30-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;226E8Q/226E8QDS;22";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;226E8Q/226E8QJA;22";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;243E9Q /243E9QH;24";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;246E8FJ;24";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;246E8Q/246E8QDS;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;246E8Q/246E8QJA;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;246E9Q/246E9QD;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;246E9Q/246E9QJ;24";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;247E9Q /247E9QH;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;248E9Q/248E9QH;24";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;253M7L;25";TN;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;276E8FJ;27";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;276E8Q/276E8QDS;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;276E8Q/276E8QJA;27";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;276E9Q/276E9QD;27";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;276E9Q/276E9QHSW;27";NA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;276E9Q/276E9QJ;27";NA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;278C7Q/278C7QJ;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;278E8Q/278E8QDSW;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;278E8Q/278E8QJAW;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;278E9Q/278E9QH;27";VA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;278E9Q/278E9QJ;27";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;279X62JSW;27";TN;1920x1080;48-69 via DisplayPort;DisplayPort™;Yes;No;No
+Philips;326E8F /326E8FJ;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;326M6F/326M6FJSB;32";PLS;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;327E8F/327E8FJSW;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;328C7;32";NA;1920x1080;48-144 via DisplayPort 120-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;328C7/328C7QJSW;32";NA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;328E8Q/328E8QJAB5;32";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;328E8Q/328E8QJS;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;328M6F/328M6FJMB;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;328M6FJR/328M6FJRMB;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;Yes
+Philips;328M6FJRMB;32";IPS;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Philips;328M6FJS;32";VA;2560x1440;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;349P7F;34";MVA;3440x1440;40-100 via DisplayPort 40-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;349X6/349X6QJSW;24";IPS;2560x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;349X7;34";IPS;3440x1440;40-100 via DisplayPort 40-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;349X7/349X7FJEW;34";NA;3440x1440;40-100 via DisplayPort 40-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;356M6Q/356M6QDS;25";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;356M6Q/356M6QJA;35";IPS;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Philips;PHL 278M6F/278M6FJMB;27";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;PHL 328E8Q/328E8QJS;32";VA;1920x1080;48-75 via DisplayPort 48-75 via HDMI;DisplayPort™, HDMI®;No;No;No
+Pixio;PX276 (Panel 2);27";NA;2560x1440;30-144 via DisplayPort;DisplayPort™;Yes;No;No
+Pixio;PX277;27";NA;2560x1440;30-144 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;BE270UA;27";IPS;2560x1440;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;C22F390;22";VA;1920x1080;48-72 via DisplayPort 48-72 via HDMI;DisplayPort™, HDMI®;No;No;No
+Samsung;C24F390FHC;24";VA;1920x1080;48-72 via DisplayPort 48-72 via HDMI;DisplayPort™, HDMI®;No;No;No
+Samsung;C27F390FHC;27";VA;1920x1080;48-72 via DisplayPort 48-72 via HDMI;DisplayPort™, HDMI®;No;No;No
+Samsung;C27F398;27";VA;1920x1080;48-72 via DisplayPort 48-72 via HDMI;DisplayPort™, HDMI®;No;No;No
+Samsung;C27F591;27";VA;1920x1080;48-72 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;C27FG70;27";VA;1920x1080;70-144 via DisplayPort 119-119 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Samsung;C27HG70;27";VA;2560x1440;48-144 via DisplayPort 100-100 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Samsung;C32HG70;32";VA;2560x1440;48-144 via DisplayPort 100-100 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Samsung;C32JG51FDU;32";NA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Samsung;C34J79x;34";VA;3440x1440;48-100 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Samsung;C49HG90;49";VA;3880x1080;48-144 via DisplayPort 100-100 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Samsung;CFG70-27;27";NA;1920x1080;48-144 via DisplayPort 48-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Samsung;CHG70_32 (FS2);32";NA;2560x1440;48-144 via DisplayPort 48-100 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Samsung;CHG90_49;49";NA;3840x1080;72-144 via DisplayPort 50-100 via HDMI;DisplayPort™, HDMI®;Yes;Yes;Yes
+Samsung;LC27FG70FQ;27";NA;1920x1080;70-144 via DisplayPort 120-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Samsung;LC27FG70FQKKXR;27";NA;1920x1080;70-144 via DisplayPort 62-120 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Samsung;LS24E370;24";PLS;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;S24F350FHW;24";IPS;1920x1080;48-72 via DisplayPort 48-72 via HDMI;DisplayPort™, HDMI®;No;No;No
+Samsung;S27F350FHW;27";IPS;1920x1080;48-72 via DisplayPort 48-72 via HDMI;DisplayPort™, HDMI®;No;No;No
+Samsung;U24E590D;24";PLS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;U24E850R;34";PLS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;U28E590D;28";TN;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;U28E850R;28";TN;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;U32E850R;32";PLS;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+Samsung;V27F390;27";NA;1920x1080;48-68 via HDMI;HDMI®;Yes;No;No
+Samsung;V27F398;27";VA;1920x1080;48-72 via DisplayPort;DisplayPort™;Yes;No;No
+SCEPTRE;C27/ C275B-144R;27";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+SCEPTRE;C32/ C325B-144R;32";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;V27F390;27";NA;1920x1080;48-68 via DisplayPort 68-68 via HDMI;DisplayPort™, HDMI®;No;No;No
+ViewSonic;VX2257-mhd;22";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;VX2457/VX2457-mhd;24";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;VX2457-mhd;24";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;VX2458 / VX2458-c-mhd;24";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;VX2458-mhd;24";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;VX2757-mhd;27";TN;1920x1080;48-75 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;VX2758-C-mh;27";VA;1920x1080;48-144 via HDMI;HDMI®;Yes;No;No
+ViewSonic;VX3211-4K / VX3211-4K-mhd;32";VA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+ViewSonic;VX3218;32";NA;2560x1440;47-75 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;VX3218-shdw;32";PLS;2560x1440;47-75 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;VX3258/VX3258-2KC-mhd;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG2401;24";TN;1920x1080;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;XG2402;24";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG2530;25";TN;1920x1080;48-240 via DisplayPort 48-240 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG2700-4K;27";TN;3840x2160;40-60 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;XG2701;27";TN;1920x1080;48-144 via DisplayPort;DisplayPort™;Yes;No;No
+ViewSonic;XG2702;27";TN;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG2703;27";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG2730;27";TN;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG3202;32";VA;1920x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+ViewSonic;XG3220;32";VA;3840x2160;40-60 via DisplayPort 40-60 via HDMI;DisplayPort™, HDMI®;No;No;No
+ViewSonic;XG3240C;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Viotek;GN32LD;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Viotek;GN35LD;35";VA;2560x1080;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+WORTMANN;TERRA 3280W;31";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Philips;276E8Q/276E8QHS;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27fw(Panel2-LHD EC);27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;HA240Y/HA240Y B;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;R271/R271 Bbmix;27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Philips;246E8Q/246E8QHS;24";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Acer;R221Q/R221Q Bbmix;22";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Monoprice;315/33822;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+HP;27xq(Panel2-AUO);27";TN;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+AOPEN;27ML1;27";A-HVA;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27f(Panel2-LHD EC);27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27fh(Panel2-LHD EC);27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+HP;27fw/ 27fw with Audio(Panel2-LHD EC);27";IPS;1920x1080;48-75 via HDMI;HDMI®;Yes;No;No
+Monoprice;315/33821;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
+Hannspree;HG324QJB/HSG1381;32";VA;2560x1440;48-144 via DisplayPort 48-144 via HDMI;DisplayPort™, HDMI®;Yes;No;No
